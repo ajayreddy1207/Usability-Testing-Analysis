@@ -2,196 +2,244 @@
 
 ## 📌 Project Overview
 
-This project focuses on **Usability Testing and Analysis** of a digital application interface. The main purpose of the project is to evaluate how easily users can interact with an application, identify usability issues, collect user feedback, and suggest improvements.
+This project focuses on conducting **Usability Testing and Analysis** for a food delivery mobile application. The purpose of the project is to evaluate the application's ease of use, understand user behavior, identify usability issues, collect feedback, and recommend improvements.
 
-Usability testing helps understand real user behavior and provides valuable insights that can be used to improve the overall **User Experience (UX)**.
-
----
-
-## 🎯 Project Objectives
-
-The main objectives of this project are:
-
-* Evaluate the usability of the application.
-* Understand how users interact with the interface.
-* Identify usability problems and difficulties.
-* Collect feedback from users.
-* Analyze user performance and observations.
-* Identify areas that need improvement.
-* Provide practical recommendations to improve the user experience.
+The testing process includes creating a test plan, defining test scenarios, observing users while they perform tasks, analyzing findings, and evaluating usability metrics.
 
 ---
 
-## 🔍 What is Usability Testing?
+## 🎯 Objective
 
-**Usability Testing** is a user-centered testing method used to evaluate how easy and effective a product or interface is to use.
+The main objective of this project is to evaluate the usability of a **food delivery mobile application** by observing users while they complete common tasks.
 
-In this project, users perform predefined tasks while their interactions are observed and analyzed.
+The study focuses on:
 
-The testing process helps identify:
-
-* Navigation difficulties
-* Confusing interface elements
-* Interaction problems
-* Unclear labels or buttons
-* User errors
-* Areas for improving the overall experience
+* Identifying usability issues
+* Understanding user behavior
+* Measuring task success
+* Evaluating user satisfaction
+* Identifying areas for improvement
+* Providing design recommendations
 
 ---
 
-## 🧪 Testing Process
+## 🛠️ Tools Used
 
-The usability testing process followed these steps:
-
-```text
-Planning
-   ↓
-Define User Tasks
-   ↓
-Select Participants
-   ↓
-Conduct Usability Testing
-   ↓
-Observe User Behavior
-   ↓
-Collect Feedback
-   ↓
-Analyze Findings
-   ↓
-Identify Usability Issues
-   ↓
-Recommend Improvements
-```
+* **Figma**
+* **User Observation**
+* **Usability Testing**
+* **UI/UX Design Principles**
 
 ---
 
 ## 👥 Participants
 
-The usability testing involved users interacting with the application and completing predefined tasks.
+The usability testing was conducted with:
 
-Participants were observed based on:
-
-* Task completion
-* Ease of navigation
-* Interaction with interface elements
-* Errors encountered
-* Time required to complete tasks
-* Overall feedback
+* **5 Sample Users**
+* Students and Working Professionals
+* Users with different levels of experience with food delivery applications
 
 ---
 
-## 📋 User Testing Tasks
+## 📝 Test Plan
 
-The testing activities focused on common user interactions such as:
+The usability testing was planned to evaluate how easily users could complete important tasks within the food delivery application.
 
-1. Opening the application.
-2. Navigating through the main interface.
-3. Finding required information.
-4. Interacting with important interface elements.
-5. Completing assigned tasks.
-6. Providing feedback about the experience.
+The testing process included:
+
+1. Preparing the test plan
+2. Selecting participants
+3. Defining test scenarios
+4. Observing user interactions
+5. Recording user feedback
+6. Analyzing usability issues
+7. Preparing recommendations
+
+---
+
+## 📸 Test Plan
+
+![Test Plan](test-plan.png)
+
+---
+
+## ✅ Test Scenarios
+
+Users were asked to complete the following tasks:
+
+1. Open the application
+2. Search for a restaurant
+3. View menu items
+4. Add food to the cart
+5. Apply a coupon
+6. Proceed to checkout
+7. Track the order
+
+---
+
+## 📸 Test Scenarios
+
+![Test Scenarios](test-scenarios.png)
+
+---
+
+## 👀 User Observations
+
+During the testing process, users were observed while completing the assigned tasks.
+
+The observations focused on:
+
+* Navigation behavior
+* User interactions
+* Task completion
+* Errors and difficulties
+* Time taken to complete tasks
+* User reactions
+* Overall experience
+
+---
+
+## 📸 Observations
+
+![Observations](observations.png)
 
 ---
 
 ## 📊 Usability Metrics
 
-The following metrics were considered during the analysis:
+The following usability metrics were considered:
 
-| Metric          | Description                                   |
-| --------------- | --------------------------------------------- |
-| Task Completion | Whether users successfully completed the task |
-| Time on Task    | Time required to complete a task              |
-| Errors          | Number of mistakes encountered                |
-| Navigation      | Ease of moving through the interface          |
-| User Feedback   | Participant opinions and suggestions          |
-| Satisfaction    | Overall user experience                       |
-
----
-
-## 🔎 Key Areas Analyzed
-
-### 🧭 Navigation
-
-Evaluated whether users could easily understand and navigate between different sections.
-
-### 🎨 Visual Design
-
-Analyzed layout, spacing, typography, buttons, and overall visual consistency.
-
-### 🖱️ Interaction
-
-Checked whether interactive elements behaved as users expected.
-
-### 📖 Content Clarity
-
-Evaluated whether the information, labels, and instructions were easy to understand.
-
-### ♿ Accessibility
-
-Considered whether important interface elements were clearly visible and easy to interact with.
+| Metric                      | Description                                             |
+| --------------------------- | ------------------------------------------------------- |
+| **Task Success Rate**       | Percentage of users who successfully completed the task |
+| **Average Completion Time** | Average time taken by users to complete a task          |
+| **User Satisfaction**       | Users' overall satisfaction with the application        |
+| **Error Rate**              | Number of errors made during task completion            |
+| **Learnability**            | How easily users understand and learn the interface     |
 
 ---
 
-## ⚠️ Usability Issues
+## 📈 Usability Metrics
 
-The testing process helped identify areas where users experienced difficulty.
-
-Common usability issues included:
-
-* Unclear navigation
-* Confusing interface elements
-* Inconsistent placement of controls
-* Lack of clear feedback after certain actions
-* Elements that were not immediately recognizable as interactive
-* Information that could be organized more clearly
+![Usability Metrics](usability-metrics.png)
 
 ---
 
-## 💡 Recommendations
+## 🔍 Key Findings
 
-Based on the usability analysis, the following improvements are recommended:
+The usability testing produced the following findings:
 
-* Simplify navigation.
-* Improve button labels and visibility.
-* Maintain consistent layouts.
-* Improve spacing and alignment.
-* Provide clear feedback after user actions.
-* Make important information easier to find.
-* Improve the overall visual hierarchy.
-* Reduce unnecessary complexity in user flows.
+* Most users successfully completed the assigned tasks.
+* Navigation was simple and easy to understand.
+* Some users found the coupon section confusing.
+* The checkout button could be made more visible.
+* Overall user satisfaction was high.
 
 ---
 
-## 📈 Expected Improvements
+## 📸 Findings
 
-Implementing the recommended changes can help:
-
-* Improve task completion rates.
-* Reduce user errors.
-* Reduce the time required to complete tasks.
-* Improve navigation.
-* Increase user satisfaction.
-* Create a more intuitive user experience.
+![Findings](findings.png)
 
 ---
 
-## 🛠️ Tools & Methods
+## 💬 User Feedback
 
-### Tools
+User feedback was collected after completing the assigned tasks.
 
-* Figma
-* Microsoft Word
-* Microsoft PowerPoint
-* User Testing
+The feedback helped identify areas where the interface could be improved and provided useful insights into the overall user experience.
 
-### Methods
+---
+
+## 📸 User Feedback
+
+![User Feedback](user-feedback.png)
+
+---
+
+## 👥 Participants
+
+The participants represented different types of users, including students and working professionals.
+
+This helped provide different perspectives on the usability of the food delivery application.
+
+---
+
+## 📸 Participants
+
+![Participants](participants.png)
+
+---
+
+## 🎯 Objective
+
+The project was focused on understanding how users interact with the food delivery application and identifying opportunities to improve the overall user experience.
+
+---
+
+## 📸 Objective
+
+![Objective](objective.png)
+
+---
+
+## 📖 Project Overview
+
+The project follows a user-centered approach where actual user interactions and feedback are used to understand usability problems.
+
+The complete process includes:
+
+```text
+Planning
+   ↓
+Participant Selection
+   ↓
+Test Scenarios
+   ↓
+User Testing
+   ↓
+Observation
+   ↓
+Feedback Collection
+   ↓
+Usability Analysis
+   ↓
+Findings
+   ↓
+Recommendations
+```
+
+---
+
+## 🎉 Conclusion
+
+The usability testing provided valuable insights into the user experience of the food delivery application.
+
+The study helped identify usability issues related to navigation, coupon usage, and checkout visibility. These findings can be used to make the interface more intuitive, efficient, and user-friendly.
+
+---
+
+## 📸 Conclusion
+
+![Conclusion](conclusion.png)
+
+---
+
+## 📈 Outcome
+
+This project improved my understanding of:
 
 * Usability Testing
-* User Observation
-* Task Analysis
-* Feedback Collection
-* Usability Analysis
-* UX Recommendations
+* User Behavior Analysis
+* UX Research
+* Usability Metrics
+* User Feedback Analysis
+* Identifying UX Problems
+* Design Recommendations
+* Iterative Design Improvement
+
+It also strengthened my skills in conducting usability tests, documenting findings, and presenting results as a professional UI/UX case study.
 
 ---
 
@@ -201,44 +249,69 @@ Implementing the recommended changes can help:
 Usability-Testing-Analysis/
 │
 ├── README.md
-├── Usability Testing Report
-├── Testing Results
-├── Analysis
-└── Supporting Files
+├── cover.png
+├── objective.png
+├── participants.png
+├── test-plan.png
+├── test-scenarios.png
+├── observations.png
+├── findings.png
+├── usability-metrics.png
+├── user-feedback.png
+└── conclusion.png
 ```
 
 ---
 
-## 📚 Learning Outcomes
+# 🖼️ Complete Project Screenshots
 
-Through this project, I gained practical experience in:
+### Cover
 
-* Usability Testing
-* UX Research
-* User Observation
-* Task Analysis
-* Identifying UX Problems
-* Collecting User Feedback
-* Analyzing Usability Results
-* Creating UX Recommendations
-* Improving User Experience
-* Documenting Research Findings
+![Cover](cover.png)
+
+### Objective
+
+![Objective](objective.png)
+
+### Participants
+
+![Participants](participants.png)
+
+### Test Plan
+
+![Test Plan](test-plan.png)
+
+### Test Scenarios
+
+![Test Scenarios](test-scenarios.png)
+
+### Observations
+
+![Observations](observations.png)
+
+### Findings
+
+![Findings](findings.png)
+
+### Usability Metrics
+
+![Usability Metrics](usability-metrics.png)
+
+### User Feedback
+
+![User Feedback](user-feedback.png)
+
+### Conclusion
+
+![Conclusion](conclusion.png)
 
 ---
 
-## 🎯 Project Outcome
-
-This project provided practical experience in evaluating a digital interface from a **user-centered perspective**.
-
-The usability testing process helped identify potential problems, understand user behavior, and develop actionable recommendations for improving the overall user experience.
-
----
-
-## 👨‍💻 Author
+## 👨‍💻 Created By
 
 ### Ajay Reddy Eguturi
 
-**UI/UX Design | Usability Testing | Web Development**
+**UI/UX Design | Usability Testing | UX Research**
 
 ---
 
